@@ -12,9 +12,9 @@ export default function App() {
     <body>
       <header />
       <main>
-        <section class="flora-wrapper">
+        <section class="flora-wrapper cursor-block">
           <div>            
-            <img class="flora-portrait cursor-block" src="/flora_portrait.png"/>
+          <img class="flora-portrait cursor-block" src="/flora_portrait.png"/>
             <img class="flora-frame cursor-block" src="/flora_frame_drawn.png"/>
             <img class="bg cursor-block" src="/bg.png"/>            
             <Canvas>     
